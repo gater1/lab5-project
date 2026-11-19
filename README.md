@@ -1,5 +1,4 @@
 # lab5-project
 A practice project for Lab 5 - learning: Git and Github.
 Updated for part 4.
-This is the MAIN version of my Lab 5 project.
-
+This is the resolved version, combining the changes from main and conflict-branch.
